@@ -24,6 +24,8 @@ We used two public datasets in this study:
 
 ## Results
 The fatigued driving dataset is labelled according to the labelling methods for datasets in literature "Toward Drowsiness Detection Using Non-hair-Bearing EEG-Based Brain-Computer Interfaces"[1]. After the labelling is completed, the frequency domain features of the EEG signal are extracted using EEGLab and mapped to a 2D image based on the Azimuthal Equidistant Projection method with Clough-Tocher interpolation [2].
+The generated image is shown below:
+![Alt text](image.png)
 
 ```
 @articleE{1,
