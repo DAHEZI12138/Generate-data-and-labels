@@ -15,7 +15,7 @@ publisher={IOP Publishing}
 ```
 
 
-## Prepare datasets
+## Prepare Datasets
 We used two public datasets in this study:
 - [Seed Dataset](https://bcmi.sjtu.edu.cn/~seed/index.html)
 - [Fatigue Driving Dataset](https://figshare.com/articles/dataset/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task/6427334)
